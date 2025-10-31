@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone-Social Media Project
 A mini social media web app inspired by Twitter, built using HTML, CSS, and Java.
 
 This project allows users to post short messages, view other user posts, and interact through likes or comments. It focuses on front-end design and core functionality using Java for basic logic and data handling.
