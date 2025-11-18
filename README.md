@@ -19,7 +19,7 @@ This project allows users to post short messages, view other user posts, and int
 
 (1)HTML5 – Structure and layout
 
-(2)CSS3 – Styling and responsiveness
+(2)CSS – Styling and responsiveness
 
 (3)Java – Backend logic and data handling
 
